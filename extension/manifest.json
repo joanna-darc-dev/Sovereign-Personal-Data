@@ -92,6 +92,7 @@
         "lib/feedback.js",
         "lib/formats.js",
         "lib/exporter.js",
+        "lib/integrity-hardening.js",
         "content/content.js",
         "content/panel.js",
         "content/sidebar.js"
